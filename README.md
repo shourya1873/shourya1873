@@ -10,7 +10,7 @@ I'm a passionate **Full Stack Developer** with over 5 years of experience crafti
 From frontend pixels to backend logic — I love building clean, functional, and scalable solutions.
 
 📱 **Tech Reels + Blog**  
-Creating 60-second **tech reels on Instagram** for quick dev tips, with deeper dives on my [blog](https://sandeshs.in/).
+Creating **reels on Instagram and videos for youtube** for quick dev tips, with deeper dives on my [blog](https://sandeshs.in/).
 
 ---
 
